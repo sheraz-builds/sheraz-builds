@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 **Currently working on:** Smart Flutter Applications & Point-of-Sale (POS) solutions.
+- 🔭 **Currently working on:** Smart Flutter Applications & Scalable Mobile Solutions
 - 💻 **Tech Stack:** Flutter, React, Next.js, Node.js, JavaScript, Dart.
 - ⚡ **Learning & Exploring:** Advanced Mobile Architectures & Scalable APIs.
 - 🎯 **Goals:** Delivering production-ready mobile apps with sleek UI/UX.
