@@ -30,16 +30,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheraz-builds&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz-builds&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
+                                                                                                                                                                                                 
+### 📊 GitHub Activity                                                                                                                                                                                  
 
 <p align="center">
-  <b>Let's Connect & Build Awesome Apps Together! 🚀</b>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheraz-builds&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheraz-builds&theme=tokyonight" width="48%" />
 </p>
+
