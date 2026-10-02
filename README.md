@@ -42,6 +42,20 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 📊 GitHub Stats & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheraz-builds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraz-builds&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheraz-builds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
 
 ### 📬 Let's Connect
 
