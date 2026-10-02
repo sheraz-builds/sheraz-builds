@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e1b4b&height=180&section=header&text=Hi%20👋,%20I'm%20Sheraz&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,100:111827&height=180&section=header&text=SHERAZ%20BUILDS&fontSize=50&fontColor=00F5D4&stroke=00F5D4&strokeWidth=1&animation=twinkle" width="100%" />
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 ### 📬 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-sherazbuilds%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sherazbuilds@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sherazbuilds%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sherazbuilds@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923015465835)
 
 ---
