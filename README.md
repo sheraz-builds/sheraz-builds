@@ -19,6 +19,7 @@
 - 🌐 **Web Development:** Building modern full-stack web applications with **Next.js, React, Node.js, & Tailwind CSS**.
 - 🎯 **Goal:** Developing production-ready, high-performance web & mobile solutions.
 
+
 ---
 
 ### 🛠️ Tech Stack & Tools
